@@ -4,6 +4,7 @@ This project implements a Generative Adversarial Network (GAN) using PyTorch to 
 It includes CNN-based architecture improvements, visualizations, and GIF-based progress tracking for a clear look at how the model learns over time.
 
 
+
 🚀 Features
 
 🧩 Modular Codebase — separate data loader (data_utils.py) and GAN training script (mnist_gan.py).
@@ -17,6 +18,7 @@ It includes CNN-based architecture improvements, visualizations, and GIF-based p
 🖼️ Sample Preview — view real and generated digits directly.
 
 
+
 ⚙️ Installation
 
 git clone https://github.com/<your-username>/mnist-gan.git
@@ -26,9 +28,11 @@ cd mnist-gan
 pip install -r requirements.txt
 
 
+
 🏋️ Training the GAN
 
 python mnist_gan.py --epochs 50 --batch_size 128
+
 
 
 This will:
@@ -40,6 +44,7 @@ Train the GAN
 Save generated images after each epoch
 
 Create an animated GIF showing progress
+
 
 
 
