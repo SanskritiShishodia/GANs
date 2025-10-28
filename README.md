@@ -1,4 +1,5 @@
 🧠 MNIST GAN – Handwritten Digit Generation
+
 This project implements a Generative Adversarial Network (GAN) using PyTorch to generate realistic handwritten digits from the MNIST dataset.
 It includes CNN-based architecture improvements, visualizations, and GIF-based progress tracking for a clear look at how the model learns over time.
 
