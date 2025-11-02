@@ -21,7 +21,7 @@ It includes CNN-based architecture improvements, visualizations, and GIF-based p
 
 ⚙️ Installation
 
-git clone https://github.com/<your-username>/mnist-gan.git
+git clone https://github.com/SanskritiShishodia/mnist-gan.git
 
 cd mnist-gan
 
